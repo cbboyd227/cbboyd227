@@ -1,0 +1,25 @@
+Hello 
+I am new to Marlin software this is my first
+Custom code I have tried I am using molisa marlin
+V2.1.
+Everything works perfect the printer boots up 
+Perfect and everything else perfect but with 
+The sd card inserted the printer keeps rebooting 
+I have looked up information for the last 2 weeks 
+And tried everything.
+Deactivated sd support fail 
+Change the pin fail 
+Tried different versions of firmware and when 
+I do esteps it changes both extruder 1 and 2 
+Where on the molisa I can change them individually 
+I manufacture parts and need it to be spot on 
+Everytime.
+Can anyone please assist also this is my first 
+Post and GITHUB feels confusing to me.
+I can upload the whole code later when I have 
+Access to the pc.
+I have formatted the sd card fat32 and used 3 
+Different ones and still the same problem.
+I have no idea how to solve this problem.
+Can anyone please assist.
+I also found the code on GITHUB.
